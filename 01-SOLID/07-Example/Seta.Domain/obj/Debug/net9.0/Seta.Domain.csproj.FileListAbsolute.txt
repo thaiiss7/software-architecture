@@ -1,0 +1,12 @@
+C:\Users\disrct\Desktop\software-architecture\01-SOLID\07-Example\Seta.Domain\bin\Debug\net9.0\Seta.Domain.deps.json
+C:\Users\disrct\Desktop\software-architecture\01-SOLID\07-Example\Seta.Domain\bin\Debug\net9.0\Seta.Domain.dll
+C:\Users\disrct\Desktop\software-architecture\01-SOLID\07-Example\Seta.Domain\bin\Debug\net9.0\Seta.Domain.pdb
+C:\Users\disrct\Desktop\software-architecture\01-SOLID\07-Example\Seta.Domain\obj\Debug\net9.0\Seta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\software-architecture\01-SOLID\07-Example\Seta.Domain\obj\Debug\net9.0\Seta.Domain.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\software-architecture\01-SOLID\07-Example\Seta.Domain\obj\Debug\net9.0\Seta.Domain.AssemblyInfo.cs
+C:\Users\disrct\Desktop\software-architecture\01-SOLID\07-Example\Seta.Domain\obj\Debug\net9.0\Seta.Domain.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\software-architecture\01-SOLID\07-Example\Seta.Domain\obj\Debug\net9.0\Seta.Domain.sourcelink.json
+C:\Users\disrct\Desktop\software-architecture\01-SOLID\07-Example\Seta.Domain\obj\Debug\net9.0\Seta.Domain.dll
+C:\Users\disrct\Desktop\software-architecture\01-SOLID\07-Example\Seta.Domain\obj\Debug\net9.0\refint\Seta.Domain.dll
+C:\Users\disrct\Desktop\software-architecture\01-SOLID\07-Example\Seta.Domain\obj\Debug\net9.0\Seta.Domain.pdb
+C:\Users\disrct\Desktop\software-architecture\01-SOLID\07-Example\Seta.Domain\obj\Debug\net9.0\ref\Seta.Domain.dll
