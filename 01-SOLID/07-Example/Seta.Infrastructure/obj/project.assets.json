@@ -5,6 +5,9 @@
       "Seta.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Seta.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Seta.Application.dll": {}
         },

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Seta.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70f252d649b086dd790b94194cb529fcdded2f97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebfae3fee95099c1907fdebe2fcc22bf352c067b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Seta.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Seta.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
