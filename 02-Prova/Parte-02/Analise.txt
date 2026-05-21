@@ -1,0 +1,20 @@
+* DTO CreateHeroRequest está na pasta de enpoints, no lugar errado,
+Deixa a organização confusa.
+
+* No sistema não tem um objeto de resposta, então alguns retornos variam entre objeto e null
+Causa falta de tratamento de erros e resposta instável.
+
+* Falta de tratamento de erros e validações no sistema
+Quando um erro como not found, bad request, etc ocorrem, não existe nenhuma tratativa ou resposta ao usuário.
+
+* A requisição get retorna a entidade Hero inteira
+A falta de um DTO para determinar quais informações da entidade vão ser retornadas deixa os dados do sistema expostos.
+
+* Atributo status de Hero como se trata de estados poderia ser um booleano ou um enum
+Deixar como string pode deixar o status sucetível a erro, principalmente sem tratativa.
+
+* O arquivo endpoint de Hero e o arquivo model de Hero tem o mesmo nome
+Deixa a arquitetura do sistema confusa e pode atrapalhar os imports.
+
+* Funcionalidades poderiam ter diso separadas em UseCases
+Deixariam os endpoints mais limpos e o sistema melhor estruturado para expansões.

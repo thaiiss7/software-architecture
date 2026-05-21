@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Seta.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebfae3fee95099c1907fdebe2fcc22bf352c067b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d51cdcd4b3edc4536e57204649927b5ad9df352")]
 [assembly: System.Reflection.AssemblyProductAttribute("Seta.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Seta.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

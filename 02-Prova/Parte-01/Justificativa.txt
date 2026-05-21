@@ -1,0 +1,5 @@
+De acordo com o princípio de segregação de interface, dividi a interface para separar as funcionalidades e ações necssárias para cada tipo de carro, 
+Depois herdei apenas as interfaces necssárias podendo implementar todos os métodos necessários para o Uno sem ter métodos sobresalentes.
+É importante fazer isso para deixar as interfaces menos poluídas e mais coesas.
+
+Também coloquei Estado e Cidade como atributos da placa para diminuir o acoplamento do sistema.
